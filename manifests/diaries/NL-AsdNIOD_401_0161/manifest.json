@@ -1,0 +1,3947 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries//NL-AsdNIOD_401_0161/manifest.json",
+  "type": "Manifest",
+  "label": {},
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0002",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0002"
+        ]
+      },
+      "height": 2394,
+      "width": 1713,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0002/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0002/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0002.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2394,
+                "width": 1713,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0002.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0003",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0003"
+        ]
+      },
+      "height": 2381,
+      "width": 1700,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0003/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0003/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0003.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2381,
+                "width": 1700,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0003.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0004",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0004"
+        ]
+      },
+      "height": 2383,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0004/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0004/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0004.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2383,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0004.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0005",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0005"
+        ]
+      },
+      "height": 2381,
+      "width": 1697,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0005/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0005/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0005.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2381,
+                "width": 1697,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0005.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0006",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0006"
+        ]
+      },
+      "height": 2382,
+      "width": 1703,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0006/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0006/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0006.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2382,
+                "width": 1703,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0006.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0007",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0007"
+        ]
+      },
+      "height": 2382,
+      "width": 1703,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0007/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0007/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0007.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2382,
+                "width": 1703,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0007.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0008",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0008"
+        ]
+      },
+      "height": 2383,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0008/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0008/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0008.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2383,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0008.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0009",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0009"
+        ]
+      },
+      "height": 2395,
+      "width": 1718,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0009/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0009/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0009.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2395,
+                "width": 1718,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0009.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0010",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0010"
+        ]
+      },
+      "height": 2383,
+      "width": 1703,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0010/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0010/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0010.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2383,
+                "width": 1703,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0010.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0011",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0011"
+        ]
+      },
+      "height": 2390,
+      "width": 1713,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0011/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0011/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0011.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2390,
+                "width": 1713,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0011.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0011"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0012",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0012"
+        ]
+      },
+      "height": 2392,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0012/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0012/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0012.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2392,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0012.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0013",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0013"
+        ]
+      },
+      "height": 2390,
+      "width": 1717,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0013/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0013/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0013.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2390,
+                "width": 1717,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0013.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0014",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0014"
+        ]
+      },
+      "height": 2383,
+      "width": 1704,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0014/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0014/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0014.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2383,
+                "width": 1704,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0014.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0015",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0015"
+        ]
+      },
+      "height": 2388,
+      "width": 1706,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0015/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0015/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0015.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2388,
+                "width": 1706,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0015.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0016",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0016"
+        ]
+      },
+      "height": 2384,
+      "width": 1707,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0016/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0016/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0016.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2384,
+                "width": 1707,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0016.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0017",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0017"
+        ]
+      },
+      "height": 2381,
+      "width": 1701,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0017/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0017/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0017.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2381,
+                "width": 1701,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0017.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0018",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0018"
+        ]
+      },
+      "height": 2388,
+      "width": 1704,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0018/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0018/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0018.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2388,
+                "width": 1704,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0018.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0019",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0019"
+        ]
+      },
+      "height": 2381,
+      "width": 1701,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0019/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0019/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0019.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2381,
+                "width": 1701,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0019.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0020",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0020"
+        ]
+      },
+      "height": 2385,
+      "width": 1707,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0020/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0020/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0020.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2385,
+                "width": 1707,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0020.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0021",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0021"
+        ]
+      },
+      "height": 2386,
+      "width": 1699,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0021/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0021/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0021.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2386,
+                "width": 1699,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0021.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0022",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0022"
+        ]
+      },
+      "height": 2383,
+      "width": 1706,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0022/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0022/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0022.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2383,
+                "width": 1706,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0022.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0023",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0023"
+        ]
+      },
+      "height": 2385,
+      "width": 1704,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0023/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0023/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0023.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2385,
+                "width": 1704,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0023.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0024",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0024"
+        ]
+      },
+      "height": 2385,
+      "width": 1713,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0024/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0024/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0024.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2385,
+                "width": 1713,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0024.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0025",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0025"
+        ]
+      },
+      "height": 2383,
+      "width": 1703,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0025/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0025/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0025.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2383,
+                "width": 1703,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0025.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0026",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0026"
+        ]
+      },
+      "height": 2384,
+      "width": 1706,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0026/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0026/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0026.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2384,
+                "width": 1706,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0026.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0027",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0027"
+        ]
+      },
+      "height": 2381,
+      "width": 1700,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0027/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0027/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0027.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2381,
+                "width": 1700,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0027.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0028",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0028"
+        ]
+      },
+      "height": 2384,
+      "width": 1707,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0028/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0028/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0028.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2384,
+                "width": 1707,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0028.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0028"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0029",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0029"
+        ]
+      },
+      "height": 2386,
+      "width": 1707,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0029/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0029/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0029.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2386,
+                "width": 1707,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0029.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0029"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0030",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0030"
+        ]
+      },
+      "height": 2383,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0030/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0030/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0030.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2383,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0030.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0030"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0031",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0031"
+        ]
+      },
+      "height": 2383,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0031/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0031/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0031.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2383,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0031.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0031"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0032",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0032"
+        ]
+      },
+      "height": 2384,
+      "width": 1709,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0032/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0032/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0032.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2384,
+                "width": 1709,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0032.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0032"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0033",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0033"
+        ]
+      },
+      "height": 2385,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0033/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0033/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0033.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2385,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0033.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0033"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0034",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0034"
+        ]
+      },
+      "height": 2383,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0034/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0034/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0034.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2383,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0034.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0034"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0035",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0035"
+        ]
+      },
+      "height": 2387,
+      "width": 1711,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0035/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0035/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0035.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2387,
+                "width": 1711,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0035.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0035"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0036",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0036"
+        ]
+      },
+      "height": 2385,
+      "width": 1707,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0036/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0036/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0036.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2385,
+                "width": 1707,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0036.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0036"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0037",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0037"
+        ]
+      },
+      "height": 2383,
+      "width": 1701,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0037/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0037/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0037.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2383,
+                "width": 1701,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0037.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0037"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0038",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0038"
+        ]
+      },
+      "height": 2385,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0038/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0038/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0038.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2385,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0038.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0038"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0039",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0039"
+        ]
+      },
+      "height": 2387,
+      "width": 1708,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0039/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0039/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0039.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2387,
+                "width": 1708,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0039.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0039"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0040",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0040"
+        ]
+      },
+      "height": 2384,
+      "width": 1706,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0040/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0040/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0040.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2384,
+                "width": 1706,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0040.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0040"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0041",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0041"
+        ]
+      },
+      "height": 2383,
+      "width": 1702,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0041/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0041/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0041.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2383,
+                "width": 1702,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0041.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0041"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0042",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0042"
+        ]
+      },
+      "height": 2383,
+      "width": 1709,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0042/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0042/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0042.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2383,
+                "width": 1709,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0042.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0042"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0043",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0043"
+        ]
+      },
+      "height": 2385,
+      "width": 1709,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0043/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0043/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0043.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2385,
+                "width": 1709,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0043.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0043"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0044",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0044"
+        ]
+      },
+      "height": 2384,
+      "width": 1706,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0044/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0044/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0044.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2384,
+                "width": 1706,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0044.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0044"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0045",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0045"
+        ]
+      },
+      "height": 2391,
+      "width": 1716,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0045/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0045/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0045.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2391,
+                "width": 1716,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0045.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0045"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0046",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0046"
+        ]
+      },
+      "height": 2383,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0046/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0046/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0046.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2383,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0046.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0046"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0047",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0047"
+        ]
+      },
+      "height": 2405,
+      "width": 1711,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0047/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0047/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0047.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2405,
+                "width": 1711,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0047.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0047"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0048",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0048"
+        ]
+      },
+      "height": 2392,
+      "width": 1706,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0048/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0048/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0048.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2392,
+                "width": 1706,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0048.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0048"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0049",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0049"
+        ]
+      },
+      "height": 2381,
+      "width": 1698,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0049/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0049/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0049.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2381,
+                "width": 1698,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0049.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0049"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0050",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0050"
+        ]
+      },
+      "height": 2383,
+      "width": 1704,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0050/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0050/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0050.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2383,
+                "width": 1704,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0050.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0050"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0051",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0051"
+        ]
+      },
+      "height": 2395,
+      "width": 1723,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0051/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0051/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0051.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2395,
+                "width": 1723,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0051.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0051"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0052",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0052"
+        ]
+      },
+      "height": 2388,
+      "width": 1706,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0052/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0052/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0052.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2388,
+                "width": 1706,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0052.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0052"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0053",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0053"
+        ]
+      },
+      "height": 2389,
+      "width": 1717,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0053/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0053/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0053.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2389,
+                "width": 1717,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0053.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0053"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0054",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0054"
+        ]
+      },
+      "height": 2387,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0054/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0054/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0054.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2387,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0054.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0054"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0055",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0055"
+        ]
+      },
+      "height": 2381,
+      "width": 1701,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0055/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0055/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0055.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2381,
+                "width": 1701,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0055.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0055"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0056",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0056"
+        ]
+      },
+      "height": 2384,
+      "width": 1706,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0056/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0056/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0056.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2384,
+                "width": 1706,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0056.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0056"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0057",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0057"
+        ]
+      },
+      "height": 2391,
+      "width": 1711,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0057/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0057/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0057.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2391,
+                "width": 1711,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0057.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0057"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0058",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0058"
+        ]
+      },
+      "height": 2384,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0058/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0058/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0058.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2384,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0058.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0058"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0059",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0059"
+        ]
+      },
+      "height": 2389,
+      "width": 1706,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0059/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0059/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0059.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2389,
+                "width": 1706,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0059.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0059"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0060",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0060"
+        ]
+      },
+      "height": 2394,
+      "width": 1707,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0060/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0060/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0060.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2394,
+                "width": 1707,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0060.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0060"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0061",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0061"
+        ]
+      },
+      "height": 2393,
+      "width": 1712,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0061/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0061/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0061.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2393,
+                "width": 1712,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0061.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0061"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0062",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0062"
+        ]
+      },
+      "height": 2384,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0062/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0062/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0062.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2384,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0062.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0062"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0063",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0063"
+        ]
+      },
+      "height": 2381,
+      "width": 1700,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0063/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0063/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0063.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2381,
+                "width": 1700,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0063.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0063"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0064",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0064"
+        ]
+      },
+      "height": 2385,
+      "width": 1707,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0064/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0064/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0064.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2385,
+                "width": 1707,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0064.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0064"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0065",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0065"
+        ]
+      },
+      "height": 2390,
+      "width": 1699,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0065/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0065/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0065.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2390,
+                "width": 1699,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0065.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0065"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0066",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0066"
+        ]
+      },
+      "height": 2384,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0066/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0066/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0066.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2384,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0066.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0066"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0067",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0067"
+        ]
+      },
+      "height": 2387,
+      "width": 1702,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0067/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0067/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0067.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2387,
+                "width": 1702,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0067.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0067"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0068",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0068"
+        ]
+      },
+      "height": 2385,
+      "width": 1707,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0068/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0068/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0068.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2385,
+                "width": 1707,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0068.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0068"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0069",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0069"
+        ]
+      },
+      "height": 2390,
+      "width": 1702,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0069/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0069/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0069.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2390,
+                "width": 1702,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0069.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0069"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0070",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0070"
+        ]
+      },
+      "height": 2391,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0070/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0070/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0070.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2391,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0070.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0070"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0071",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0071"
+        ]
+      },
+      "height": 2388,
+      "width": 1713,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0071/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0071/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0071.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2388,
+                "width": 1713,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0071.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0071"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0072",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0072"
+        ]
+      },
+      "height": 2390,
+      "width": 1714,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0072/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0072/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0072.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2390,
+                "width": 1714,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0072.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0072"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0073",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0073"
+        ]
+      },
+      "height": 2388,
+      "width": 1701,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0073/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0073/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0073.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2388,
+                "width": 1701,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0073.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0073"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0074",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0074"
+        ]
+      },
+      "height": 2389,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0074/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0074/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0074.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2389,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0074.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0074"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0075",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0075"
+        ]
+      },
+      "height": 2382,
+      "width": 1701,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0075/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0075/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0075.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2382,
+                "width": 1701,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0075.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0075"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0076",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0076"
+        ]
+      },
+      "height": 2384,
+      "width": 1709,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0076/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0076/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0076.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2384,
+                "width": 1709,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0076.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0076"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0077",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0077"
+        ]
+      },
+      "height": 2387,
+      "width": 1712,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0077/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0077/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0077.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2387,
+                "width": 1712,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0077.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0077"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0078",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0078"
+        ]
+      },
+      "height": 2384,
+      "width": 1709,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0078/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0078/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0078.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2384,
+                "width": 1709,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0078.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0078"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0079",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0079"
+        ]
+      },
+      "height": 2392,
+      "width": 1718,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0079/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0079/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0079.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2392,
+                "width": 1718,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0079.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0079"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0080",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0080"
+        ]
+      },
+      "height": 2385,
+      "width": 1707,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0080/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0080/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0080.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2385,
+                "width": 1707,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0080.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0080"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0081",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0081"
+        ]
+      },
+      "height": 2396,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0081/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0081/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0081.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2396,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0081.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0081"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0082",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0082"
+        ]
+      },
+      "height": 2387,
+      "width": 1719,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0082/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0082/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0082.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2387,
+                "width": 1719,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0082.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0082"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0083",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0083"
+        ]
+      },
+      "height": 2391,
+      "width": 1718,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0083/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0083/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0083.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2391,
+                "width": 1718,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0083.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0083"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0084",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0084"
+        ]
+      },
+      "height": 2385,
+      "width": 1707,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0084/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0084/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0084.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2385,
+                "width": 1707,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0084.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0084"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0085",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0085"
+        ]
+      },
+      "height": 2387,
+      "width": 1709,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0085/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0085/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0085.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2387,
+                "width": 1709,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0085.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0085"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0086",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0086"
+        ]
+      },
+      "height": 2398,
+      "width": 1704,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0086/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0086/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0086.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2398,
+                "width": 1704,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0086.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0086"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0087",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0087"
+        ]
+      },
+      "height": 2388,
+      "width": 1713,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0087/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0087/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0087.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2388,
+                "width": 1713,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0087.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0087"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0088",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0088"
+        ]
+      },
+      "height": 2385,
+      "width": 1707,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0088/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0088/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0088.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2385,
+                "width": 1707,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0088.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0088"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0089",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0089"
+        ]
+      },
+      "height": 2391,
+      "width": 1714,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0089/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0089/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0089.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2391,
+                "width": 1714,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0089.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0089"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0090",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0090"
+        ]
+      },
+      "height": 2390,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0090/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0090/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0090.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2390,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0090.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0090"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0091",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0091"
+        ]
+      },
+      "height": 2387,
+      "width": 1711,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0091/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0091/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0091.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2387,
+                "width": 1711,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0091.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0091"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0092",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0092"
+        ]
+      },
+      "height": 2385,
+      "width": 1707,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0092/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0092/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0092.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2385,
+                "width": 1707,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0092.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0092"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0093",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0093"
+        ]
+      },
+      "height": 2387,
+      "width": 1709,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0093/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0093/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0093.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2387,
+                "width": 1709,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0093.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0093"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0094",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0094"
+        ]
+      },
+      "height": 2387,
+      "width": 1706,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0094/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0094/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0094.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2387,
+                "width": 1706,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0094.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0094"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0095",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0095"
+        ]
+      },
+      "height": 2396,
+      "width": 1710,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0095/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0095/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0095.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2396,
+                "width": 1710,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0095.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0095"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0096",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0096"
+        ]
+      },
+      "height": 2390,
+      "width": 1711,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0096/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0096/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0096.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2390,
+                "width": 1711,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0096.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0096"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0097",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0097"
+        ]
+      },
+      "height": 2387,
+      "width": 1698,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0097/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0097/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0097.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2387,
+                "width": 1698,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0097.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0097"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0098",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0098"
+        ]
+      },
+      "height": 2395,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0098/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0098/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0098.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2395,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0098.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0098"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0099",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0099"
+        ]
+      },
+      "height": 2389,
+      "width": 1713,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0099/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0099/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0099.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2389,
+                "width": 1713,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0099.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0099"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0100",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0100"
+        ]
+      },
+      "height": 2385,
+      "width": 1707,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0100/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0100/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0100.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2385,
+                "width": 1707,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0100.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0101",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0101"
+        ]
+      },
+      "height": 2390,
+      "width": 1713,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0101/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0101/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0101.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2390,
+                "width": 1713,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0101.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0102",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "NL-AsdNIOD_401_0161_0102"
+        ]
+      },
+      "height": 2393,
+      "width": 1705,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0102/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0102/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0102.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2393,
+                "width": 1705,
+                "service": [
+                  {
+                    "@id": "https://iiif.create.humanities.uva.nl/iiif/2/NL-AsdNIOD_401_0161_0102.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161_0102"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
