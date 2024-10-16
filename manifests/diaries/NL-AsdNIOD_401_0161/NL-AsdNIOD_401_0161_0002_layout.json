@@ -11,7 +11,7 @@
       "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002_layout.json/r",
       "type": "Annotation",
       "textGranularity": "block",
-      "motivation": "describing",
+      "motivation": "tagging",
       "body": [
         {
           "type": "TextualBody",
@@ -38,7 +38,7 @@
       "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002_layout.json/r_1726",
       "type": "Annotation",
       "textGranularity": "block",
-      "motivation": "describing",
+      "motivation": "tagging",
       "body": [
         {
           "type": "TextualBody",
@@ -65,7 +65,7 @@
       "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002_layout.json/r_1727",
       "type": "Annotation",
       "textGranularity": "block",
-      "motivation": "describing",
+      "motivation": "tagging",
       "body": [
         {
           "type": "TextualBody",
