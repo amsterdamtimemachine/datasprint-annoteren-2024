@@ -10,11 +10,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": null,
-          "purpose": "supplementing"
+          "value": ""
         }
       ],
       "target": {
@@ -41,11 +41,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "AFSCHRIFT VOOR DE INDISCHE COLLECTIE",
-          "purpose": "supplementing"
+          "value": "AFSCHRIFT VOOR DE INDISCHE COLLECTIE"
         }
       ],
       "target": {
@@ -72,11 +72,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "DAGBOEK VAN T.C. AVIS-HULSTIJN.",
-          "purpose": "supplementing"
+          "value": "DAGBOEK VAN T.C. AVIS-HULSTIJN."
         }
       ],
       "target": {
@@ -103,11 +103,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Voor Mieke Woutera Avis.",
-          "purpose": "supplementing"
+          "value": "Voor Mieke Woutera Avis."
         }
       ],
       "target": {
@@ -134,11 +134,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Vervolg van babyboek, dat verloren is gegaan bij vertrek naar",
-          "purpose": "supplementing"
+          "value": "Vervolg van babyboek, dat verloren is gegaan bij vertrek naar"
         }
       ],
       "target": {
@@ -165,11 +165,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "de wijk te Soerabaya.",
-          "purpose": "supplementing"
+          "value": "de wijk te Soerabaya."
         }
       ],
       "target": {
@@ -196,11 +196,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Babyboek is achtergelaten aan de kokkie Pa\u00efna, vrouw van",
-          "purpose": "supplementing"
+          "value": "Babyboek is achtergelaten aan de kokkie Pa\u00efna, vrouw van"
         }
       ],
       "target": {
@@ -227,11 +227,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Ismoen, wonende aan de Palmenlaan Zuid. Pandjaan gang III",
-          "purpose": "supplementing"
+          "value": "Ismoen, wonende aan de Palmenlaan Zuid. Pandjaan gang III"
         }
       ],
       "target": {
@@ -258,11 +258,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Roemah 10. Dicht bij Tamarindelaan.",
-          "purpose": "supplementing"
+          "value": "Roemah 10. Dicht bij Tamarindelaan."
         }
       ],
       "target": {
@@ -289,11 +289,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Kort uittreksel uit de herinnering van het Babyboek.",
-          "purpose": "supplementing"
+          "value": "Kort uittreksel uit de herinnering van het Babyboek."
         }
       ],
       "target": {
@@ -320,11 +320,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Mieke Woutera werd 29 dec. 1940 op een zondagnamiddag geboren te",
-          "purpose": "supplementing"
+          "value": "Mieke Woutera werd 29 dec. 1940 op een zondagnamiddag geboren te"
         }
       ],
       "target": {
@@ -351,11 +351,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "19.22 uur, in het Darmo Ziekenhuis aan de Darmoboulevard te",
-          "purpose": "supplementing"
+          "value": "19.22 uur, in het Darmo Ziekenhuis aan de Darmoboulevard te"
         }
       ],
       "target": {
@@ -382,11 +382,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Soerabaya.",
-          "purpose": "supplementing"
+          "value": "Soerabaya."
         }
       ],
       "target": {
@@ -413,11 +413,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Hierbij waren: Vader, Dr. Kopp, Zr. Zus van der Wall en Zr. Rietje",
-          "purpose": "supplementing"
+          "value": "Hierbij waren: Vader, Dr. Kopp, Zr. Zus van der Wall en Zr. Rietje"
         }
       ],
       "target": {
@@ -444,11 +444,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Fasten (nu R. Jansen-Schoonhoven) tegenwoordig.",
-          "purpose": "supplementing"
+          "value": "Fasten (nu R. Jansen-Schoonhoven) tegenwoordig."
         }
       ],
       "target": {
@@ -475,11 +475,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Je woog 4 pond, 1\u00bd ons en was 47 cm. lang. Je kreeg tot ca. 9 mnd.",
-          "purpose": "supplementing"
+          "value": "Je woog 4 pond, 1\u00bd ons en was 47 cm. lang. Je kreeg tot ca. 9 mnd."
         }
       ],
       "target": {
@@ -506,11 +506,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "borstvoeding, groeide goed.",
-          "purpose": "supplementing"
+          "value": "borstvoeding, groeide goed."
         }
       ],
       "target": {
@@ -537,11 +537,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Je was de trots van je vader. Hij deed erg wilde spelletjes met je.",
-          "purpose": "supplementing"
+          "value": "Je was de trots van je vader. Hij deed erg wilde spelletjes met je."
         }
       ],
       "target": {
@@ -568,11 +568,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Tilde je aan je beenen met je hoofd naar beneden uit de box, gooide",
-          "purpose": "supplementing"
+          "value": "Tilde je aan je beenen met je hoofd naar beneden uit de box, gooide"
         }
       ],
       "target": {
@@ -599,11 +599,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "je een straal koud water over je rug, als ik je in 't badje stopte,",
-          "purpose": "supplementing"
+          "value": "je een straal koud water over je rug, als ik je in 't badje stopte,"
         }
       ],
       "target": {
@@ -630,11 +630,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "legde je, in bed zittend, op zijn gestrekte beenen, spreidde ze",
-          "purpose": "supplementing"
+          "value": "legde je, in bed zittend, op zijn gestrekte beenen, spreidde ze"
         }
       ],
       "target": {
@@ -661,11 +661,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "dan plotseling, zoodat je met een schok op 't bed terecht kwam of",
-          "purpose": "supplementing"
+          "value": "dan plotseling, zoodat je met een schok op 't bed terecht kwam of"
         }
       ],
       "target": {
@@ -692,11 +692,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "wel hij legde je op het groote rolkussen (goeling) en wachte tot",
-          "purpose": "supplementing"
+          "value": "wel hij legde je op het groote rolkussen (goeling) en wachte tot"
         }
       ],
       "target": {
@@ -723,11 +723,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "je eraf rolde.",
-          "purpose": "supplementing"
+          "value": "je eraf rolde."
         }
       ],
       "target": {
@@ -754,11 +754,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Toen je negen maanden was, zei hij: \"Ik wou dat Mieke nu maar z\u00f3o",
-          "purpose": "supplementing"
+          "value": "Toen je negen maanden was, zei hij: \"Ik wou dat Mieke nu maar z\u00f3o"
         }
       ],
       "target": {
@@ -785,11 +785,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "bleef en niet grooter werd, want ik vind haar nu zoo leuk\".",
-          "purpose": "supplementing"
+          "value": "bleef en niet grooter werd, want ik vind haar nu zoo leuk\"."
         }
       ],
       "target": {
@@ -816,11 +816,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "Toen je elf mnd. was, brak de oorlog met Japan uit en moest vader",
-          "purpose": "supplementing"
+          "value": "Toen je elf mnd. was, brak de oorlog met Japan uit en moest vader"
         }
       ],
       "target": {
@@ -847,11 +847,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "onder dienst. Wij hebben toen erg gezworven. In Januari woonden",
-          "purpose": "supplementing"
+          "value": "onder dienst. Wij hebben toen erg gezworven. In Januari woonden"
         }
       ],
       "target": {
@@ -878,11 +878,11 @@
       ],
       "type": "Annotation",
       "textGranularity": "line",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
-          "value": "we bij Tante Bep Driessen en Febr., Mrt. 'n pension \"Dermo\".",
-          "purpose": "supplementing"
+          "value": "we bij Tante Bep Driessen en Febr., Mrt. 'n pension \"Dermo\"."
         }
       ],
       "target": {

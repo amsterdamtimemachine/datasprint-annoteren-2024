@@ -45,23 +45,21 @@
       "annotations": [
         {
           "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002_layout.json",
-          "type": "AnnotationPage",
           "label": {
             "nl": [
               "Layout annotations"
             ]
           },
-          "items": []
+          "type": "AnnotationPage"
         },
         {
           "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002_transcriptions.json",
-          "type": "AnnotationPage",
           "label": {
             "nl": [
               "Transcriptions"
             ]
           },
-          "items": []
+          "type": "AnnotationPage"
         }
       ]
     },
