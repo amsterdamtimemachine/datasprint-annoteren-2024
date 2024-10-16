@@ -11,8 +11,9 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Person: T.C. AVIS-HULSTIJN",
-          "purpose": "classifying"
+          "value": "<b>Person</b>: T.C. AVIS-HULSTIJN",
+          "purpose": "classifying",
+          "format": "text/html"
         }
       ],
       "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002#xywh=288,421,630,46"
@@ -25,8 +26,9 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Person: Mieke Woutera Avis",
-          "purpose": "classifying"
+          "value": "<b>Person</b>: Mieke Woutera Avis",
+          "purpose": "classifying",
+          "format": "text/html"
         }
       ],
       "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002#xywh=292,554,476,40"
@@ -39,12 +41,17 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Place: Soerabaya",
-          "purpose": "classifying"
+          "value": "<b>Place</b>: Soerabaya<br><br><b>Name</b>: Surabaya<br><b>Description</b>: hoofdstad van Oost-Java<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q11462'>http://www.wikidata.org/entity/Q11462</a>",
+          "purpose": "classifying",
+          "format": "text/html"
         },
         {
           "type": "SpecificResource",
-          "source": "http://www.wikidata.org/entity/Q11462",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q11462",
+            "label": "Surabaya",
+            "comments": "hoofdstad van Oost-Java"
+          },
           "purpose": "identifying"
         }
       ],
@@ -58,8 +65,9 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Place: Palmenlaan Zuid",
-          "purpose": "classifying"
+          "value": "<b>Place</b>: Palmenlaan Zuid",
+          "purpose": "classifying",
+          "format": "text/html"
         }
       ],
       "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002#xywh=292,757,1138,40"
@@ -72,8 +80,9 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Place: Tamarindelaan",
-          "purpose": "classifying"
+          "value": "<b>Place</b>: Tamarindelaan",
+          "purpose": "classifying",
+          "format": "text/html"
         }
       ],
       "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002#xywh=288,806,698,40"
@@ -86,8 +95,9 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Organization: Darmo Ziekenhuis",
-          "purpose": "classifying"
+          "value": "<b>Organization</b>: Darmo Ziekenhuis",
+          "purpose": "classifying",
+          "format": "text/html"
         }
       ],
       "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002#xywh=284,1089,1184,38"
