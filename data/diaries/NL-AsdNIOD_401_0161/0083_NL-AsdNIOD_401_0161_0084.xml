@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-10-04T16:38:54.666+02:00</Created>
+        <LastChange>2024-10-07T11:21:01.160+02:00</LastChange>
+        <TranskribusMetadata docId="4508828" pageId="79710004" pageNr="83" tsid="191705863" status="IN_PROGRESS" userId="145668" imgUrl="https://files.transkribus.eu/Get?id=MQVOJKPZRSZFZVIQDXJDMHNX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LQBNFGNPHLNOQXFYHSOEYYTH" imageId="65103901"/>
+    </Metadata>
+    <Page imageFilename="0083_NL-AsdNIOD_401_0161_0084.jpg" imageWidth="1707" imageHeight="2385">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729171049969" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="216,312 216,838 1666,838 1666,312"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="820,366 847,366 874,369 901,371 928,374 928,320 901,317 874,315 847,312 820,312"/>
+                <Baseline points="820,348 847,348 874,351 901,353 928,356"/>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="216,505 288,501 361,501 433,501 506,501 578,499 651,499 723,499 796,497 868,497 941,497 1013,497 1086,497 1158,495 1231,494 1303,493 1376,493 1448,493 1521,493 1593,493 1666,493 1666,447 1593,447 1521,447 1448,447 1376,447 1303,447 1231,448 1158,449 1086,451 1013,451 941,451 868,451 796,451 723,453 651,453 578,453 506,455 433,455 361,455 288,455 216,459"/>
+                <Baseline points="216,490 288,486 361,486 433,486 506,486 578,484 651,484 723,484 796,482 868,482 941,482 1013,482 1086,482 1158,480 1231,479 1303,478 1376,478 1448,478 1521,478 1593,478 1666,478"/>
+                <TextEquiv>
+                    <Unicode>weer. Het stappen gaat wel, maar met erg veel moeite, want de trapper</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="216,571 261,569 306,569 352,567 397,567 443,567 488,567 533,565 579,565 624,565 670,565 715,563 760,563 806,564 851,563 897,563 942,563 987,562 1033,561 1078,562 1124,563 1124,517 1078,516 1033,515 987,516 942,517 897,517 851,517 806,518 760,517 715,517 670,519 624,519 579,519 533,519 488,521 443,521 397,521 352,521 306,523 261,523 216,525"/>
+                <Baseline points="216,556 261,554 306,554 352,552 397,552 443,552 488,552 533,550 579,550 624,550 670,550 715,548 760,548 806,549 851,548 897,548 942,548 987,547 1033,546 1078,547 1124,548"/>
+                <TextEquiv>
+                    <Unicode>moet eerst in de goede stand gebracht worden.
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="320,635 372,633 424,633 476,633 528,631 580,631 632,630 684,629 736,631 788,631 841,629 893,630 945,629 997,627 1049,627 1101,627 1153,627 1205,625 1257,626 1309,625 1362,627 1362,581 1309,579 1257,580 1205,579 1153,581 1101,581 1049,581 997,581 945,583 893,584 841,583 788,585 736,585 684,583 632,584 580,585 528,585 476,587 424,587 372,587 320,589"/>
+                <Baseline points="320,620 372,618 424,618 476,618 528,616 580,616 632,615 684,614 736,616 788,616 841,614 893,615 945,614 997,612 1049,612 1101,612 1153,612 1205,610 1257,611 1309,610 1362,612"/>
+                <TextEquiv>
+                    <Unicode>Mieke is voorwaardelijk over gegaan naar de 6e klas.
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="222,705 293,701 364,701 435,700 506,699 577,699 648,697 719,695 790,695 861,695 933,694 1004,694 1075,691 1146,691 1217,691 1288,691 1359,692 1430,691 1501,689 1572,689 1644,689 1644,643 1572,643 1501,643 1430,645 1359,646 1288,645 1217,645 1146,645 1075,645 1004,648 933,648 861,649 790,649 719,649 648,651 577,653 506,653 435,654 364,655 293,655 222,659"/>
+                <Baseline points="222,690 293,686 364,686 435,685 506,684 577,684 648,682 719,680 790,680 861,680 933,679 1004,679 1075,676 1146,676 1217,676 1288,676 1359,677 1430,676 1501,674 1572,674 1644,674"/>
+                <TextEquiv>
+                    <Unicode>Bij Tante Miep pak je als eerste het tijdschrift "Moeder" en leest daar
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="222,769 292,767 363,767 433,767 504,765 575,764 645,763 716,763 786,762 857,761 928,761 998,759 1069,759 1139,759 1210,757 1281,757 1351,759 1422,757 1492,756 1563,755 1634,759 1634,713 1563,709 1492,710 1422,711 1351,713 1281,711 1210,711 1139,713 1069,713 998,713 928,715 857,715 786,716 716,717 645,717 575,718 504,719 433,721 363,721 292,721 222,723"/>
+                <Baseline points="222,754 292,752 363,752 433,752 504,750 575,749 645,748 716,748 786,747 857,746 928,746 998,744 1069,744 1139,744 1210,742 1281,742 1351,744 1422,742 1492,741 1563,740 1634,744"/>
+                <TextEquiv>
+                    <Unicode>alles in. "Als ik later groot ben, neem ik ook "Moeder", want er staat
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="216,838 262,836 308,836 354,836 401,836 447,836 493,835 540,834 586,833 632,832 679,830 725,830 771,830 817,830 864,829 910,828 956,828 1003,828 1049,826 1095,828 1142,832 1142,783 1095,779 1049,777 1003,779 956,779 910,779 864,780 817,781 771,781 725,781 679,781 632,783 586,784 540,785 493,786 447,787 401,787 354,787 308,787 262,787 216,789"/>
+                <Baseline points="216,822 262,820 308,820 354,820 401,820 447,820 493,819 540,818 586,817 632,816 679,814 725,814 771,814 817,814 864,813 910,812 956,812 1003,812 1049,810 1095,812 1142,816"/>
+                <TextEquiv>
+                    <Unicode>heel goed in, hoe je kinderen op moet voeden."
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

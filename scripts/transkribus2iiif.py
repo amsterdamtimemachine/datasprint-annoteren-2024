@@ -31,6 +31,8 @@ def make_manifest(diary_id, filenames):
 
         canvas_uri = f"{PREFIX}{diary_id}/{basefilename}"
 
+        print(file_info_json)
+
         manifest.make_canvas_from_iiif(
             url=file_info_json,
             id=canvas_uri,
@@ -351,7 +353,9 @@ def main(DIARIESFILE):
                 ),
             )
 
-            filename_without_extension = os.path.splitext(os.path.basename(page.id))[0]
+            filename_without_extension = os.path.splitext(os.path.basename(page.id))[
+                0
+            ].split("_", 1)[1]
             canvas_uri = f"{PREFIX}{diary_id}/{filename_without_extension}"
 
             annotationPage_layout = parse_layout(page, canvas_uri)

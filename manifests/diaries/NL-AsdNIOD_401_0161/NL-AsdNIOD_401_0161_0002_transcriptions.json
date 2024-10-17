@@ -8,23 +8,6 @@
         "http://www.w3.org/ns/anno.jsonld",
         "http://iiif.io/api/extension/text-granularity/context.json"
       ],
-      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002_transcriptions.json/tr_1_tl_1",
-      "type": "Annotation",
-      "textGranularity": "line",
-      "motivation": "supplementing",
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": ""
-        }
-      ],
-      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002#xywh=1380,152,111,45"
-    },
-    {
-      "@context": [
-        "http://www.w3.org/ns/anno.jsonld",
-        "http://iiif.io/api/extension/text-granularity/context.json"
-      ],
       "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002_transcriptions.json/tr_1_tl_2",
       "type": "Annotation",
       "textGranularity": "line",

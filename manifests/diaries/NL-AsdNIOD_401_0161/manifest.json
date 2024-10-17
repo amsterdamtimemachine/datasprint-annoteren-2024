@@ -41,6 +41,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0002_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -79,6 +108,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0003"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0003_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0003_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0003_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -119,6 +177,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0004_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0004_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0004_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -157,6 +244,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0005"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0005_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0005_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0005_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -197,6 +313,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0006_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0006_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0006_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -235,6 +380,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0007"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0007_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0007_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0007_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -275,6 +449,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0008_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0008_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0008_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -313,6 +516,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0009"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0009_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0009_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0009_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -353,6 +585,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0010_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0010_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0010_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -391,6 +652,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0011"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0011_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0011_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0011_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -431,6 +721,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0012_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0012_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0012_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -469,6 +788,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0013"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0013_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0013_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0013_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -509,6 +857,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0014_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0014_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0014_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -547,6 +924,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0015"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0015_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0015_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0015_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -587,6 +993,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0016_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0016_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0016_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -625,6 +1060,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0017"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0017_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0017_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0017_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -665,6 +1129,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0018_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0018_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0018_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -703,6 +1196,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0019"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0019_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0019_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0019_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -743,6 +1265,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0020_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0020_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0020_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -781,6 +1332,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0021"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0021_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0021_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0021_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -821,6 +1401,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0022_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0022_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0022_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -859,6 +1468,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0023"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0023_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0023_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0023_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -899,6 +1537,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0024_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0024_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0024_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -937,6 +1604,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0025"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0025_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0025_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0025_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -977,6 +1673,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0026_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0026_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0026_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1015,6 +1740,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0027"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0027_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0027_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0027_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1055,6 +1809,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0028_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0028_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0028_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1093,6 +1876,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0029"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0029_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0029_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0029_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1133,6 +1945,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0030_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0030_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0030_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1171,6 +2012,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0031"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0031_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0031_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0031_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1211,6 +2081,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0032_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0032_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0032_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1249,6 +2148,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0033"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0033_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0033_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0033_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1289,6 +2217,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0034_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0034_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0034_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1327,6 +2284,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0035"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0035_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0035_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0035_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1367,6 +2353,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0036_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0036_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0036_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1405,6 +2420,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0037"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0037_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0037_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0037_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1445,6 +2489,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0038_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0038_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0038_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1483,6 +2556,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0039"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0039_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0039_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0039_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1523,6 +2625,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0040_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0040_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0040_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1561,6 +2692,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0041"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0041_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0041_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0041_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1601,6 +2761,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0042_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0042_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0042_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1639,6 +2828,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0043"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0043_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0043_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0043_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1679,6 +2897,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0044_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0044_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0044_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1717,6 +2964,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0045"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0045_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0045_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0045_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1757,6 +3033,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0046_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0046_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0046_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1795,6 +3100,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0047"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0047_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0047_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0047_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1835,6 +3169,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0048_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0048_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0048_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1873,6 +3236,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0049"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0049_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0049_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0049_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1913,6 +3305,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0050_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0050_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0050_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1951,6 +3372,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0051"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0051_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0051_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0051_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1991,6 +3441,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0052_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0052_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0052_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -2029,6 +3508,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0053"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0053_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0053_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0053_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -2069,6 +3577,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0054_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0054_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0054_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -2107,6 +3644,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0055"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0055_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0055_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0055_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -2147,6 +3713,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0056_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0056_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0056_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -2185,6 +3780,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0057"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0057_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0057_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0057_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -2225,6 +3849,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0058_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0058_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0058_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -2263,6 +3916,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0059"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0059_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0059_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0059_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -2303,6 +3985,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0060_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0060_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0060_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -2341,6 +4052,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0061"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0061_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0061_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0061_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -2381,6 +4121,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0062_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0062_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0062_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -2419,6 +4188,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0063"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0063_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0063_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0063_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -2459,6 +4257,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0064_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0064_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0064_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -2497,6 +4324,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -2537,6 +4393,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0066_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0066_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0066_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -2575,6 +4460,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0067"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0067_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0067_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0067_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -2615,6 +4529,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0068_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0068_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0068_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -2653,6 +4596,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0069"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0069_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0069_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0069_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -2693,6 +4665,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -2731,6 +4732,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0071"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0071_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0071_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0071_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -2771,6 +4801,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0072_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0072_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0072_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -2809,6 +4868,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0073"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0073_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0073_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0073_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -2849,6 +4937,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0074_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0074_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0074_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -2887,6 +5004,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0075"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0075_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0075_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0075_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -2927,6 +5073,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0076_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0076_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0076_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -2965,6 +5140,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0077"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0077_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0077_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0077_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -3005,6 +5209,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0078_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0078_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0078_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -3043,6 +5276,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0079"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0079_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0079_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0079_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -3083,6 +5345,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0080_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0080_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0080_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -3121,6 +5412,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0081"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0081_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0081_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0081_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -3161,6 +5481,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0082_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0082_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0082_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -3199,6 +5548,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0083"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0083_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0083_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0083_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -3239,6 +5617,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0084_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0084_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0084_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -3277,6 +5684,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0085"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0085_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0085_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0085_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -3317,6 +5753,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0086_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0086_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0086_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -3355,6 +5820,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0087"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0087_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0087_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0087_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -3395,6 +5889,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0088_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0088_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0088_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -3433,6 +5956,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0089"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0089_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0089_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0089_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -3473,6 +6025,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0090_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0090_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0090_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -3511,6 +6092,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0091"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0091_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0091_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0091_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -3551,6 +6161,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0092_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0092_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0092_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -3589,6 +6228,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0093"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0093_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0093_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0093_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -3629,6 +6297,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0094_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0094_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0094_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -3667,6 +6364,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0095"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0095_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0095_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0095_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -3707,6 +6433,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0096_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0096_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0096_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -3745,6 +6500,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0097"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0097_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0097_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0097_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -3785,6 +6569,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0098_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0098_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0098_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -3823,6 +6636,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0099"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0099_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0099_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0099_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -3863,6 +6705,35 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0100_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0100_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0100_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -3901,6 +6772,35 @@
               "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0101"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0101_transcriptions.json",
+          "label": {
+            "nl": [
+              "Transcriptions"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0101_layout.json",
+          "label": {
+            "nl": [
+              "Layout annotations"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0101_entities.json",
+          "label": {
+            "nl": [
+              "Entity annotations"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },

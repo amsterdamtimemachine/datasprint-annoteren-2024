@@ -1,0 +1,544 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070_entities.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: Oct. 1947 ",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=205,463,1378,61"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: Maart ",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=205,463,1378,61"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: Oct.",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=205,463,1378,61"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Atm_Home</b>: woonden ",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=205,463,1378,61"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Tante Thea",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=205,463,1378,61"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Loep",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=205,463,1378,61"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Astrid",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=205,463,1378,61"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Apollolaan<br><br><b>Name</b>: Apollolaan<br><b>Description</b>: straat in Amsterdam, Nederland<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q2113123'>http://www.wikidata.org/entity/Q2113123</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q2113123",
+            "label": "Apollolaan",
+            "comments": "straat in Amsterdam, Nederland"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=205,531,1346,58"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Atm_Home</b>: Daar 't onmogelijk was kamers te huren zijn we",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=205,531,1346,58"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Atm_Home</b>: nu bij Omi en Opa gaan wonen.",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=199,599,1070,58"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Omi",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=199,599,1070,58"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Opa ",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=199,599,1070,58"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Atm_Food</b>: fruit",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=211,663,1360,60"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Tante",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=211,663,1360,60"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Thea",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=203,730,1388,61"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Mieke",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=203,730,1388,61"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Atm_Food</b>: fruit",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=203,730,1388,61"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: 1 Sep",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=207,863,1290,61"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Organization</b>: v. Loonschool",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=207,863,1290,61"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Hondecoeterstraat<br><br><b>Name</b>: Hondecoeterstraat<br><b>Description</b>: straat in Amsterdam, Nederland<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q19254314'>http://www.wikidata.org/entity/Q19254314</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q19254314",
+            "label": "Hondecoeterstraat",
+            "comments": "straat in Amsterdam, Nederland"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=207,863,1290,61"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Mej. Spoormaker",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=213,932,1404,60"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: mammie",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=309,1063,1262,60"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: het liefste meisje van de hele klas",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=203,1131,1340,62"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Ze",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=203,1131,1340,62"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Atm_Food</b>: gehakt balletjes",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=209,1198,1102,60"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Onze lieve Heer",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=307,1262,1250,60"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Nin\u00e8",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=209,1328,1364,62"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Oom Kees",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=213,1588,1422,65"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Tante Dien",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=213,1588,1422,65"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: v. Baerlestr.<br><br><b>Name</b>: Van Baerlestraat<br><b>Description</b>: straat in Amsterdam-Zuid, Nederland<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q2466934'>http://www.wikidata.org/entity/Q2466934</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q2466934",
+            "label": "Van Baerlestraat",
+            "comments": "straat in Amsterdam-Zuid, Nederland"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=213,1588,1422,65"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: Zaterdags middags",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=213,1588,1422,65"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Mevr. Schender",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=211,1657,1364,64"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: Juni 1948.",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=213,1859,1382,65"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: j.l. Zaterdag",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0070#xywh=213,1859,1382,65"
+    }
+  ]
+}

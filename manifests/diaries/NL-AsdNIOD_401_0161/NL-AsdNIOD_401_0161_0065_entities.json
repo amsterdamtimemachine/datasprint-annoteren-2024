@@ -1,0 +1,469 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065_entities.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: B'dijkkade",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=218,444,1346,54"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Tante Tonny",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=216,510,1330,60"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Papa",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=216,643,1406,54"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: Mei",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=216,643,1406,54"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: Juni",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=216,643,1406,54"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Aerdenhout<br><br><b>Name</b>: Aerdenhout<br><b>Description</b>: plaats in Noord-Holland<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q2347146'>http://www.wikidata.org/entity/Q2347146</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q2347146",
+            "label": "Aerdenhout",
+            "comments": "plaats in Noord-Holland"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=216,710,1308,55"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Enschede<br><br><b>Name</b>: Enschede<br><b>Description</b>: stad en gemeente in Overijssel, Nederland<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q10002'>http://www.wikidata.org/entity/Q10002</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q10002",
+            "label": "Enschede",
+            "comments": "stad en gemeente in Overijssel, Nederland"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=216,710,1308,55"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: 3 Sept.",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=318,777,1268,54"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Organization</b>: De Hildebrandschool",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=318,777,1268,54"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Anth van Dijckstr.",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=218,841,1392,53"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: God<br><br><b>Name</b>: God<br><b>Description</b>: opperwezen binnen het christendom<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q825'>http://www.wikidata.org/entity/Q825</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q825",
+            "label": "God",
+            "comments": "opperwezen binnen het christendom"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=218,841,1392,53"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Papa",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=218,841,1392,53"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Guus<br><br><b>Name</b>: God<br><b>Description</b>: opperwezen binnen het christendom<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q825'>http://www.wikidata.org/entity/Q825</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q825",
+            "label": "God",
+            "comments": "opperwezen binnen het christendom"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=218,909,1406,50"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Mama",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=218,909,1406,50"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Onze lieve Heer<br><br><b>Name</b>: God<br><b>Description</b>: opperwezen binnen het christendom<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q825'>http://www.wikidata.org/entity/Q825</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q825",
+            "label": "God",
+            "comments": "opperwezen binnen het christendom"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=218,975,1406,51"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Papa",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=218,1042,1326,51"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: Maand. 16 Sept.",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=208,1175,1448,52"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Papa",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=208,1175,1448,52"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Papa",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=216,1443,1424,50"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Abel<br><br><b>Name</b>: Abel<br><b>Description</b>: male human biblical figure in Genesis 4, son of Adam and Eve<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q313421'>http://www.wikidata.org/entity/Q313421</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q313421",
+            "label": "Abel",
+            "comments": "male human biblical figure in Genesis 4, son of Adam and Eve"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=216,1498,126,60"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: Maand. 29 April",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=218,1575,1364,50"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Apeldoorn<br><br><b>Name</b>: Apeldoorn<br><b>Description</b>: gemeente in Gelderland, Nederland<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q101918'>http://www.wikidata.org/entity/Q101918</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q101918",
+            "label": "Apeldoorn",
+            "comments": "gemeente in Gelderland, Nederland"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=218,1575,1364,50"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Grootvader Avis",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=218,1575,1364,50"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: Dond.",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=216,1839,1398,55"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Amsterd.<br><br><b>Name</b>: Amsterdam<br><b>Description</b>: hoofdstad van Nederland, stad in Noord-Holland<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q727'>http://www.wikidata.org/entity/Q727</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q727",
+            "label": "Amsterdam",
+            "comments": "hoofdstad van Nederland, stad in Noord-Holland"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=216,1839,1398,55"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: Zond. 5 Mei 's avonds half elf",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0065#xywh=212,1906,1394,52"
+    }
+  ]
+}

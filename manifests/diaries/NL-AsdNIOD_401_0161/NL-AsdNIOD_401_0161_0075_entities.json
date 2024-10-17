@@ -1,0 +1,22 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0075_entities.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: 5 Juli 1949",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/NL-AsdNIOD_401_0161_0075#xywh=212,453,244,59"
+    }
+  ]
+}
