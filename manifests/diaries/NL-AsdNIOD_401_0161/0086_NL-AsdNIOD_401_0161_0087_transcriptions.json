@@ -1,0 +1,738 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_1",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "ieder wat beter in de bullen komt te zitten. De behandeling is"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=366,360,1240,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_2",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "overigens correct en we hebben ons van J.zijde totdusver werkelijk"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=342,394,1330,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_3",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "nergens over te beklagen. Gijs laat je groeten. Hij is altijd"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=340,428,1314,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_4",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "onverstoorbaar goed geluimd. Een vent uit \u00e9\u00e9n stuk onze Gijs, hoor!"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=344,460,1342,38"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_5",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Het is een troost voor me, dat ik zoo'n flink vrouwtje heb!"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=440,494,1180,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_6",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Heb nog wat geduld, deze toestand, zal wel niet permanent zijn."
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=340,528,1270,38"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_7",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Wij gaan dan weer fijn in ons huisje wonen en met zuinigheid"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=344,562,1204,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_8",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "en vlijt zullen wij er ons wel doorslaan. Nogmaals mijn bijzonde-"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=340,596,1304,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_9",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "ren dank voor al je goede gaven! Veel liefs ........ JE GUUS ."
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=340,630,1246,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_10",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Woensdag, 18 Maart 1942"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=1084,832,464,34"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_11",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Liefste,"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=444,930,154,34"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_12",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Fijn om je gisteren weer even te zien en alle hulde voor je"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=438,996,1190,38"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_13",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "moeite om ons Miekje mee te nemen. Ik had gisteren den heelen dag"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=338,1030,1310,38"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_14",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "nog dat merkwaardige tafreeltje voor oogen: Mieke geconfronteerd"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=344,1064,1284,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_15",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "met haar vader achter de tralies! Wat leuk, dat ze mij dadelijk"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=336,1096,1272,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_16",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "herkende. Ze zag er prima uit! Wat zonde dat je Maandag heelemaal"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=338,1130,1308,38"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_17",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "voor niets gekomen bent: ik was n.l. onverwacht ingedeeld  bij"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=340,1164,1242,40"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_18",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "de ploeg, die op Perak koeiliewerk moest doen. 300 man worden"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=340,1198,1230,38"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_19",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "n.l. dagelijks in vrachtauto's geladen, natuurlijk onder bewaking"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=336,1232,1306,40"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_20",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "van de J.'s met getrokken bajonet. Het werk bleek gelukkig niet"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=348,1266,1256,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_21",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "zoo erg zwaar; auto's opladen met steenen, gedeeltelijk met"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=342,1300,1182,38"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_22",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "schoppen, gedeeltelijk met werden zware steenen van ong. 15 KG"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=336,1338,1254,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_23",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "in een ketting doorgegeven (met die steenen worden bomkraters"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=340,1372,1224,34"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_24",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "in het vliegveld dichtgemaakt) . Het tempo was kalm, met"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=336,1404,1108,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_25",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "voldoende rustpoozen er in, maar het is wel een behoorlijk langen"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=340,1438,1308,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_26",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "dag van 8-4 in de brandende zon. Er is daar nl. nergens een"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=344,1470,1184,37"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_27",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "sprankje schaduw te bekennen. Tusschen de middag wordt er brood"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=340,1504,1264,38"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_28",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "met koffie verstrekt. Gelukkig hebben we dit xxxxx karweitje"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=338,1538,1204,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_29",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "maar ong. eens in de 5 dagen."
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=336,1572,584,34"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_30",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Hartelijk dank voor je pakje met kl49eren en andere goede"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=436,1605,1106,35"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_31",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "zaken; alles was even welkomxx. Vooral het pakje met vijgen viel"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=344,1638,1280,38"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_32",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "bij ons troepje van zes man in goede aarde en ik was blij dat"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=336,1672,1228,34"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_33",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "ik ook weer eens iets kon aanbrengen. Je moet je maar voorstellen,"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=338,1706,1320,40"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_34",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "dat alle eetwaar, die je mij toestopt, door zessen wordt gedeeld,"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=336,1738,1300,42"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_35",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "dus je begrijpt, dat de heerlijke grapefruit ook die weg is"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=336,1772,1190,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_36",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "opgegaan. De vriendjes van Gijs hebben zich hier al behoorlijk"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=338,1806,1246,38"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_37",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "ingericht en we houden er praktisch een complete keuken op na."
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=336,1840,1244,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_38",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Een leeg benzineblik is tot fornuis geprofmofeerd. Een paar"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=338,1874,1162,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_39",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "stukken hout zijn hier altijd wel te krijgen vinden en in minder"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=336,1908,1284,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_40",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "dan geen tijd kookt het water  voor de koffie of thee, die heel"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=338,1940,1260,36"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_41",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "wat smakelijker is dan de brouwsels, die we van de bedeeling"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=336,1974,1204,40"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_42",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "- want daar eten we nu officieel van!! (sic transit gloria mundi!)"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=336,2006,1320,38"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087_transcriptions.json/tr_1_tl_43",
+      "type": "Annotation",
+      "textGranularity": "line",
+      "motivation": "supplementing",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "- krijgen. Gisteren hebben de heeren het bestaan om een heel"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0086_NL-AsdNIOD_401_0161_0087#xywh=334,2038,1206,38"
+    }
+  ]
+}

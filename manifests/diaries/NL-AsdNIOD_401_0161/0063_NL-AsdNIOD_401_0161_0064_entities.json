@@ -1,0 +1,460 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064_entities.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Middell. Zee<br><br><b>Name</b>: Middellandse Zee<br><b>Description</b>: zee tussen Europa en Afrika<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q4918'>http://www.wikidata.org/entity/Q4918</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q4918",
+            "label": "Middellandse Zee",
+            "comments": "zee tussen Europa en Afrika"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=210,505,1346,66"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: hospitaal<br><br><b>Name</b>: ziekenhuis<br><b>Description</b>: instelling voor intensieve gezondheidszorg<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q16917'>http://www.wikidata.org/entity/Q16917</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q16917",
+            "label": "ziekenhuis",
+            "comments": "instelling voor intensieve gezondheidszorg"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=210,505,1346,66"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Southampton<br><br><b>Name</b>: Southampton<br><b>Description</b>: havenstad in het Engelse graafschap Hampshire<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q79848'>http://www.wikidata.org/entity/Q79848</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q79848",
+            "label": "Southampton",
+            "comments": "havenstad in het Engelse graafschap Hampshire"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=204,571,1398,64"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: vijf dagen",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=208,638,1390,67"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Sibajak<br><br><b>Name</b>: Unknown<br><b>Description</b>: Unknown<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q60847783'>http://www.wikidata.org/entity/Q60847783</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q60847783",
+            "label": "Unknown",
+            "comments": "Unknown"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=218,974,1384,58"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Atm_Food</b>: eten<br><br><b>Name</b>: voedsel<br><b>Description</b>: organische stoffen die organismen nodig hebben<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q2095'>http://www.wikidata.org/entity/Q2095</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q2095",
+            "label": "voedsel",
+            "comments": "organische stoffen die organismen nodig hebben"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=208,1037,1354,67"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Date</b>: Dond. 7 Mrt",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=208,1037,1354,67"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: IJmuiden <br><br><b>Name</b>: IJmuiden<br><b>Description</b>: plaats in Noord-Holland, Nederland<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q282461'>http://www.wikidata.org/entity/Q282461</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q282461",
+            "label": "IJmuiden",
+            "comments": "plaats in Noord-Holland, Nederland"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=216,1104,1428,67"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Noordzee kanaal<br><br><b>Name</b>: Noordzeekanaal<br><b>Description</b>: kanaal in Noord-Holland<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q119314'>http://www.wikidata.org/entity/Q119314</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q119314",
+            "label": "Noordzeekanaal",
+            "comments": "kanaal in Noord-Holland"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=214,1168,1388,65"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Holland <br><br><b>Name</b>: Nederland<br><b>Description</b>: land binnen het Koninkrijk der Nederlanden<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q55'>http://www.wikidata.org/entity/Q55</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q55",
+            "label": "Nederland",
+            "comments": "land binnen het Koninkrijk der Nederlanden"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=216,1367,1432,70"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: sluis <br><br><b>Name</b>: sluis<br><b>Description</b>: waterbouwkundig kunstwerk tussen twee wateren met een ongelijke waterhoogte<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q107589046'>http://www.wikidata.org/entity/Q107589046</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q107589046",
+            "label": "sluis",
+            "comments": "waterbouwkundig kunstwerk tussen twee wateren met een ongelijke waterhoogte"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=216,1435,1378,66"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Levant kade<br><br><b>Name</b>: Levantkade<br><b>Description</b>: straat in Amsterdam, Nederland<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q19326203'>http://www.wikidata.org/entity/Q19326203</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q19326203",
+            "label": "Levantkade",
+            "comments": "straat in Amsterdam, Nederland"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=226,1564,1388,70"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Amsterdam<br><br><b>Name</b>: Amsterdam<br><b>Description</b>: hoofdstad van Nederland, stad in Noord-Holland<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q727'>http://www.wikidata.org/entity/Q727</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q727",
+            "label": "Amsterdam",
+            "comments": "hoofdstad van Nederland, stad in Noord-Holland"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=226,1564,1388,70"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Jaap Eggersman",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=224,1697,1348,71"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Flip Altes",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=224,1697,1348,71"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Amstelveenscheweg<br><br><b>Name</b>: Amstelveenseweg<br><b>Description</b>: straat in Amsterdam, Nederland<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q2225886'>http://www.wikidata.org/entity/Q2225886</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q2225886",
+            "label": "Amstelveenseweg",
+            "comments": "straat in Amsterdam, Nederland"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=224,1764,1446,70"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Wim ",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=224,1764,1446,70"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: oom Kees",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=226,1832,1350,70"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Tante Dien",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=226,1832,1350,70"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Wouter ",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=224,1896,1432,72"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Ella ",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=224,1896,1432,72"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Omi ",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=224,1896,1432,72"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Grootvader",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0063_NL-AsdNIOD_401_0161_0064#xywh=224,1896,1432,72"
+    }
+  ]
+}

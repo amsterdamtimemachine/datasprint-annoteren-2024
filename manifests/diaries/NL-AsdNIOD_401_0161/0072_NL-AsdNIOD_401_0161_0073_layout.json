@@ -1,0 +1,277 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073_layout.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073_layout.json/r_1063",
+      "type": "Annotation",
+      "textGranularity": "block",
+      "motivation": "tagging",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "heading"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"129,71 129,172 707,172 707,71 129,71\"/></svg>",
+            "conformsTo": "http://www.w3.org/TR/SVG/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073_layout.json/r_1557",
+      "type": "Annotation",
+      "textGranularity": "block",
+      "motivation": "tagging",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "paragraph"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"129,172 129,368 707,382 707,172 129,172\"/></svg>",
+            "conformsTo": "http://www.w3.org/TR/SVG/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073_layout.json/r_2189",
+      "type": "Annotation",
+      "textGranularity": "block",
+      "motivation": "tagging",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "visual"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"287,383 410,383 410,408 287,408 287,383\"/></svg>",
+            "conformsTo": "http://www.w3.org/TR/SVG/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073_layout.json/r_1995",
+      "type": "Annotation",
+      "textGranularity": "block",
+      "motivation": "tagging",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "visual"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"129,411 129,926 707,926 707,411 129,411\"/></svg>",
+            "conformsTo": "http://www.w3.org/TR/SVG/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073_layout.json/r_1996",
+      "type": "Annotation",
+      "textGranularity": "block",
+      "motivation": "tagging",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "paragraph"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"129,926 129,1037 707,1037 707,926 129,926\"/></svg>",
+            "conformsTo": "http://www.w3.org/TR/SVG/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073_layout.json/r",
+      "type": "Annotation",
+      "textGranularity": "block",
+      "motivation": "tagging",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "unknown"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"877,117 877,292 1446,292 1446,117 877,117\"/></svg>",
+            "conformsTo": "http://www.w3.org/TR/SVG/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073_layout.json/r_613",
+      "type": "Annotation",
+      "textGranularity": "block",
+      "motivation": "tagging",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "unknown"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"877,292 877,460 1446,460 1446,292 877,292\"/></svg>",
+            "conformsTo": "http://www.w3.org/TR/SVG/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073_layout.json/r_2175",
+      "type": "Annotation",
+      "textGranularity": "block",
+      "motivation": "tagging",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "visual"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"877,460 877,509 1446,509 1446,460 877,460\"/></svg>",
+            "conformsTo": "http://www.w3.org/TR/SVG/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073_layout.json/r_2176",
+      "type": "Annotation",
+      "textGranularity": "block",
+      "motivation": "tagging",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "visual"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"877,509 877,894 1446,894 1446,509 877,509\"/></svg>",
+            "conformsTo": "http://www.w3.org/TR/SVG/"
+          }
+        ]
+      }
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/extension/text-granularity/context.json"
+      ],
+      "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073_layout.json/r_968",
+      "type": "Annotation",
+      "textGranularity": "block",
+      "motivation": "tagging",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "paragraph"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0072_NL-AsdNIOD_401_0161_0073",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"877,894 877,1007 1446,1007 1446,894 877,894\"/></svg>",
+            "conformsTo": "http://www.w3.org/TR/SVG/"
+          }
+        ]
+      }
+    }
+  ]
+}

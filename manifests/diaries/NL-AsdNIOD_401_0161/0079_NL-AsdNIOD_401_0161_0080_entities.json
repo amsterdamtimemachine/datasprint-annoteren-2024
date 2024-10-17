@@ -1,0 +1,115 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0079_NL-AsdNIOD_401_0161_0080_entities.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Amsterdam <br><br><b>Name</b>: Amsterdam<br><b>Description</b>: hoofdstad van Nederland, stad in Noord-Holland<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q727'>http://www.wikidata.org/entity/Q727</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q727",
+            "label": "Amsterdam",
+            "comments": "hoofdstad van Nederland, stad in Noord-Holland"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0079_NL-AsdNIOD_401_0161_0080#xywh=208,519,1370,66"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Mieke",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0079_NL-AsdNIOD_401_0161_0080#xywh=218,784,1398,70"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Mieke",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0079_NL-AsdNIOD_401_0161_0080#xywh=218,1049,1432,72"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Place</b>: Vondelpark<br><br><b>Name</b>: Vondelpark<br><b>Description</b>: park in Amsterdam, Nederland<br><b>URI</b>: <a href='http://www.wikidata.org/entity/Q1419691'>http://www.wikidata.org/entity/Q1419691</a>",
+          "purpose": "classifying",
+          "format": "text/html"
+        },
+        {
+          "type": "SpecificResource",
+          "source": {
+            "id": "http://www.wikidata.org/entity/Q1419691",
+            "label": "Vondelpark",
+            "comments": "park in Amsterdam, Nederland"
+          },
+          "purpose": "identifying"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0079_NL-AsdNIOD_401_0161_0080#xywh=222,1183,1402,72"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Mieke",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0079_NL-AsdNIOD_401_0161_0080#xywh=228,1579,1406,75"
+    },
+    {
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld"
+      ],
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<b>Person</b>: Moeder",
+          "purpose": "classifying",
+          "format": "text/html"
+        }
+      ],
+      "target": "https://amsterdamtimemachine.github.io/datasprint-annoteren-2024/manifests/diaries/NL-AsdNIOD_401_0161/0079_NL-AsdNIOD_401_0161_0080#xywh=232,1782,1442,70"
+    }
+  ]
+}

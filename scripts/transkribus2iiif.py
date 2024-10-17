@@ -89,7 +89,9 @@ def query_wikidata(uri, endpoint="https://query.wikidata.org/sparql", cache=dict
 
     print(uri)
 
-    sparql = SPARQLWrapper(endpoint)
+    sparql = SPARQLWrapper(
+        endpoint, agent="example-UA (https://example.com/; mail@example.com)"
+    )
     sparql.setQuery(q)
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
@@ -175,7 +177,7 @@ def parse_layout(page, canvas_uri):
             "body": [
                 {
                     "type": "TextualBody",
-                    "value": region_type[0] if region_type else "unknown",
+                    "value": list(region_type)[0] if region_type else "unknown",
                 },
             ],
             "target": {
@@ -288,7 +290,10 @@ def parse_entities(page, canvas_uri):
             wikidata_uri = f"http://www.wikidata.org/entity/{tag['wikidata']}"
 
             # get label and description from wikidata
-            wikidata_label, wikidata_description = query_wikidata(wikidata_uri)
+            try:
+                wikidata_label, wikidata_description = query_wikidata(wikidata_uri)
+            except:
+                wikidata_label, wikidata_description = "Unknown", "Unknown"
 
             annotation["body"].append(
                 {
